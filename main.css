@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+
+.h1 {
+color: red ;
+}
+
+
+.h2 {
+    color: darkred
+}
+
+
+.p {
+  font-weight: bold;
+}
+
+.image {
+
+}
